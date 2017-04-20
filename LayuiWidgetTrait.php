@@ -9,7 +9,7 @@ namespace xutl\layui;
 
 use yii\helpers\Json;
 
-trait BootstrapWidgetTrait
+trait LayuiWidgetTrait
 {
 
     /**
