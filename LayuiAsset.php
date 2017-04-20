@@ -31,7 +31,7 @@ class LayuiAsset extends AssetBundle
      * @inherit
      */
     public $js = [
-        'layui.js',
+        'lay/dest/layui.all.js',
     ];
 
     /**
